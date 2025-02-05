@@ -3,7 +3,7 @@
 ## Preparatory Work
 
 1. Dataset: We have put the datasets collected in the two simulation environments in the folder `data`. Please put the new dataset in this folder as well.
-2. Weights used for denoising: Download the pretrained weights `scunet_gray_25.pth` to the folder denoise according to the tutorial in [SCUNet](
+2. Weights used for denoising: Download the pretrained weights `scunet_gray_25.pth` to the folder `denoise` according to the tutorial in [SCUNet](
 https://github.com/cszn/SCUNet/blob/main/main_download_pretrained_models.py).
 
 ## Train&Reconstrution
